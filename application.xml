@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2025-06-29T11:59:00+02:00">
 <shop>
-  <name>Международный Университет Современной Психологии</name>
+  <name>МУСП</name>
   <company>МУСП</company>
   <url>https://iunipsy.com</url>
   <platform>Tilda Publishing</platform>
@@ -11,23 +11,6 @@
   <currencies>
     <currency id="RUR" rate="1"/>
   </currencies>
-  <categories>
-    <category id="802">Психолог консультант</category>
-    <category id="802">Детский психолог</category>
-    <category id="803">Семейный психолог</category>
-    <category id="802">Социальная психология</category>
-    <category id="802">Перинатальная и возрастная психология</category>
-    <category id="804">Психология для бизнеса</category>
-    <category id="804">Психология менеджмента</category>
-    <category id="804">Психология менеджмента комбинированная</category>
-    <category id="805">Клиническая психология</category>
-    <category id="803">Психология семьи</category>
-    <category id="801">Психология для жизни</category>
-    <category id="806">All</category>
-    <category id="807">Связь мозга и психики</category>
-    <category id="802">Консультирование несовершеннолетних</category>
-    <category id="807">Мозг человека</category>
-  </categories>
   <offers>
     <offer id="128693576032">
       <name>Психолог-консультант</name>
@@ -126,7 +109,7 @@
       <price>190000.00</price>
       <param name="Цена по скидке">120000.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>803</categoryId>
+      <categoryId>802</categoryId>
       <param name="Продолжительность" unit="месяц">13</param>
       <param name="Формат обучения">Самостоятельно с наставником</param>
       <param name="Тип обучения">Курс</param>
@@ -173,7 +156,7 @@
       <price>16500.00</price>
       <param name="Цена по скидке">9900.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>801</categoryId>
+      <categoryId>802</categoryId>
       <param name="Продолжительность" unit="месяц">1</param>
       <param name="Формат обучения">Самостоятельно с наставником</param>
       <param name="Тип обучения">Курс</param>
@@ -200,7 +183,7 @@
       <price>16500.00</price>
       <param name="Цена по скидке">9900.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>802</categoryId>
+      <categoryId>1009</categoryId>
       <param name="Продолжительность" unit="месяц">1</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
@@ -221,7 +204,7 @@
       <price>16500.00</price>
       <param name="Цена по скидке">9900.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>804</categoryId>
+      <categoryId>208</categoryId>
       <param name="Продолжительность" unit="месяц">1</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
@@ -265,7 +248,7 @@
       <price>18000.00</price>
       <param name="Цена по скидке">12000.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>807</categoryId>
+      <categoryId>802</categoryId>
       <param name="Продолжительность" unit="месяц">2</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
@@ -288,7 +271,7 @@
       <price>25800.00</price>
       <param name="Цена по скидке">15000.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>801</categoryId>
+      <categoryId>802</categoryId>
       <param name="Продолжительность" unit="месяц">2</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
@@ -308,7 +291,7 @@
       <price>56000.00</price>
       <param name="Цена по скидке">33600.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>804</categoryId>
+      <categoryId>201</categoryId>
       <param name="Продолжительность" unit="месяц">4</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
@@ -329,7 +312,7 @@
       <price>16500.00</price>
       <param name="Цена по скидке">9900.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>805</categoryId>
+      <categoryId>802</categoryId>
       <param name="Продолжительность" unit="месяц">1</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
@@ -349,7 +332,7 @@
       <url>https://iunipsy.com/psihologiya_menedzhmenta_kombi</url>
       <price>33600.00</price>
       <currencyId>RUR</currencyId>
-      <categoryId>804</categoryId>
+      <categoryId>201</categoryId>
       <param name="Продолжительность" unit="месяц">4</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
@@ -389,7 +372,7 @@
       <price>3000.00</price>
       <param name="Цена по скидке">1000.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>807</categoryId>
+      <categoryId>802</categoryId>
       <param name="Продолжительность" unit="месяц">1</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
@@ -408,7 +391,7 @@
       <price>5000.00</price>
       <param name="Цена по скидке">990.00</param>
       <currencyId>RUR</currencyId>
-      <categoryId>803</categoryId>
+      <categoryId>802</categoryId>
       <param name="Продолжительность" unit="месяц">1</param>
       <param name="Формат обучения">Самостоятельно</param>
       <param name="Тип обучения">Курс</param>
